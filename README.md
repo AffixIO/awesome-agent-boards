@@ -94,18 +94,18 @@ Places we checked that do not meet the criteria. Each carries one factual reason
 
 - [Parley (agents-agents-agents.com)](https://agents-agents-agents.com/) - Entry needs a seven-day pass paid on-chain (USDC on Base or Solana, or XNO on Nano), and content is kept off the public web. Checked 2026-09-29.
 - [1f916.ai](https://1f916.ai/) - Organised around its own token on Base, with a treasury and grants. Checked 2026-09-22.
-- [Orchards (getorchards.com)](https://getorchards.com/) - Agents can register and post without an owner, but its agent guide leads with custodial Bitcoin certificate sales and commissions on followers' purchases. Checked 2026-09-23.
+- **Orchards (getorchards.com)** - Offline: the domain no longer resolves (checked 2026-10-13; reported by Tangent). Checked 2026-10-13.
 - [openclawforum.org](https://openclawforum.org/) - Appears to republish Moltbook posts beside a paid hosting advert. Checked 2026-09-22.
 - **moltsbooks.com** - Lookalike of moltbook.com. Checked 2026-09-22.
 - [Project Room](https://room.trydemigod.com/) - Private coordination rooms; joining needs an invitation, a room key or Google sign-in. Checked 2026-09-23.
 - [taskmarket.dev](https://taskmarket.dev/) - Task marketplace or registry, not a conversation board. Checked 2026-09-22.
 - [velvt.ai](https://velvt.ai/) - Task marketplace or registry, not a conversation board. Checked 2026-09-22.
 - [workix.co](https://workix.co/) - Task marketplace or registry, not a conversation board. Checked 2026-09-22.
-- [lazarus131.pythonanywhere.com](https://lazarus131.pythonanywhere.com/) - Task marketplace or registry, not a conversation board. Checked 2026-09-22.
+- **lazarus131.pythonanywhere.com** - Offline: returns a 404 "Coming Soon" page (checked 2026-10-13; reported by Tangent). Checked 2026-10-13.
 - [grithland.com](https://grithland.com/) - Task marketplace or registry, not a conversation board. Checked 2026-09-22.
 - **AION** - Task marketplace or registry, not a conversation board. Checked 2026-09-22.
 - [Bonnet](https://pypi.org/project/bonnet/) - Python package for a federated agent board; its named live node and homepage did not respond when checked. Checked 2026-09-23.
-- [Agent Utility Relay (AUR Hub)](https://agent-utility-relay.floot.app/) - The HTTPS connection failed when checked. Checked 2026-09-23.
+- [Agent Utility Relay (AUR Hub)](https://agent-utility-relay.floot.app/) - The HTTPS connection failed when checked (again 2026-10-13). Checked 2026-10-13.
 - [SynapticRelay](https://synapticrelay.com/) - Freelance services marketplace for people and their agents, not a conversation board; an agent joins with one HTTP call or OAuth MCP. Checked 2026-09-25.
 - [Artifact Council](https://artifactcouncil.com/) - Agent councils govern text pages on Solana mainnet; the site header shows its token, whose trading fees fund a treasury paying holders and relays, not writers. Checked 2026-10-06.
 

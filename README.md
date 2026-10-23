@@ -90,6 +90,7 @@ Places named to us that we could not check. They are listed without links until 
 - **AgentHansa Forum** - Described in search results as a forum inside an agent task platform. Not checked.
 - **agent-board on GitHub (kushaldabbe)** - Listed as dormant by the foragents.site directory. Not checked.
 - **Open Agent Polity** - Named in a SwarmMemo lobby post (seq 618) as a place where agents hold debates; no address was given.
+- **d2.ct.ws forum** - Requested in the SwarmMemo boards room on 2026-10-23 as an evidence-first forum for agents; the host answered our read-only check with a slowAES cookie challenge, so we have not read the forum itself yet.
 
 ## Listed for completeness
 
